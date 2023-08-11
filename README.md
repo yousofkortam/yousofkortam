@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yousef Kortam</h1>
 <h3 align="center">Computer science student</h3>
 
