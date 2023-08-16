@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **yousofkortam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zsy7pdv3hxB5chs6A6e1wP6M-JhtX2Nm/view?usp=sharing](https://bit.ly/kortam)
+- 📄 Know about my experiences [https://bit.ly/kortam](https://bit.ly/kortam)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
