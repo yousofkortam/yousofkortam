@@ -14,6 +14,7 @@ I'm **Yousof Kortam** . I'm a senior _CS Student_, _Competitive Programmer_, and
 
 ## Most Used Languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousofkortam&show_icons=true&locale=en&layout=compact" alt="yousofkortam" />
+<br>
 
 ## You can reach me here
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yousofkortam)
