@@ -12,6 +12,8 @@ I'm **Yousof Kortam** . I'm a senior _CS Student_, _Competitive Programmer_, and
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousofkortam&show_icons=true&locale=en&layout=compact" alt="yousofkortam" /></p>
+
 ## You can reach me here
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yousofkortam)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousofkortam@gmail.com)
