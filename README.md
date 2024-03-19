@@ -8,7 +8,7 @@
 
 - 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 
-- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](http://bit.ly/kortam-resume).
+- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](http://bit.ly/kortam-resume){:target="_blank"}.
 
 ---
 
