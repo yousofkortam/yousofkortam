@@ -4,7 +4,7 @@
 
 ## Overview
 
-- 🎓 I'm a Senior CS Student **@FCI - Menoufia University**.
+- 🎓 I'm a Jenior CS Student **@FCI - Menoufia University**.
 
 - 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
 
