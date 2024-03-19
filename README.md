@@ -1,27 +1,6 @@
-# Hi, I'm Yousof Kortam 👋
+<h1>Hi, I'm Yousof Kortam 👋</h1>
 
-<div style="
-    display: inline-block;
-    background: url('https://komarev.com/ghpvc/?username=yousofkortam&color=blue') no-repeat center center;
-    width: 120px; /* Adjust as needed */
-    height: 20px; /* Adjust as needed */
-    animation: pulse 2s infinite;
-">
-</div>
-
-<style>
-@keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-</style>
+![](https://komarev.com/ghpvc/?username=yousofkortam&color=blueviolet&label=Profile+Views&style=flat-square)
 
 ## Overview
 
@@ -170,4 +149,4 @@
     &emsp; 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousofkortam&layout=compact&theme=radical" alt="Top Languages" height="195">
   </a>
-</p>   
+</p>
