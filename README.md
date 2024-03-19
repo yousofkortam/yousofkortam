@@ -1,6 +1,27 @@
-<h1 style="text-align:center;">Hi, I'm Yousof Kortam 👋</h1>
+# Hi, I'm Yousof Kortam 👋
 
-<br>
+<div style="
+    display: inline-block;
+    background: url('https://komarev.com/ghpvc/?username=yousofkortam&color=blue') no-repeat center center;
+    width: 120px; /* Adjust as needed */
+    height: 20px; /* Adjust as needed */
+    animation: pulse 2s infinite;
+">
+</div>
+
+<style>
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+</style>
 
 ## Overview
 
@@ -39,7 +60,7 @@
 
 ## My Competitive Programming Profiles
 <p>
-    <a href="https://codeforces.com/profile/ucf" target="blank">
+    <a href="https://codeforces.com/profile/yousofkortam" target="blank">
         <img style="text-align:center;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Zeyad_Nasef" height="40" width="40" />
     </a>
     &emsp;
@@ -149,4 +170,4 @@
     &emsp; 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousofkortam&layout=compact&theme=radical" alt="Top Languages" height="195">
   </a>
-</p>
+</p>   
