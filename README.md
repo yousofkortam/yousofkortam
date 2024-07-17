@@ -4,9 +4,7 @@
 
 ## Overview
 
-- 🎓 I'm a Jenior CS Student **@FCI - Menoufia University**.
-
-- 🧑‍🎓 I’m currently learning `Computer Science` and `Software Engineering`.
+- 🎓 I graduate from **FCI-Menoufia University** with a degree in `Computer Science` and `Software Engineering`.
 
 - 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](http://bit.ly/kortam-resume)
 
