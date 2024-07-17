@@ -6,7 +6,7 @@
 
 - 🎓 I graduated from **FCI-Menoufia University** with a degree in `Computer Science` and `Software Engineering`.
 
-- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](http://bit.ly/kortam-resume)
+- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](https://drive.google.com/file/d/1zsy7pdv3hxB5chs6A6e1wP6M-JhtX2Nm/view)
 
 ---
 
