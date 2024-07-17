@@ -4,7 +4,7 @@
 
 ## Overview
 
-- 🎓 I graduate from **FCI-Menoufia University** with a degree in `Computer Science` and `Software Engineering`.
+- 🎓 I graduated from **FCI-Menoufia University** with a degree in `Computer Science` and `Software Engineering`.
 
 - 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](http://bit.ly/kortam-resume)
 
