@@ -138,13 +138,3 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/>
     </a>
-
----
-
-<p>
-  <a href="https://github.com/yousofkortam">
-    <img src="https://github-readme-stats.vercel.app/api?username=yousofkortam&show_icons=true&theme=radical" alt="Yousof's GitHub stats" height="195">
-    &emsp; 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousofkortam&layout=compact&theme=radical" alt="Top Languages" height="195">
-  </a>
-</p>
