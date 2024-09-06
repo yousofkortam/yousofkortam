@@ -11,8 +11,3 @@
 🏗  Interested in architecture, backend, and competitive programming.
 <br><br>
 📫 Email me yousofkortam@gmail.com.
-<br><br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yousofkortam&show_icons=true&theme=radical" alt="Haneen's GitHub stats" style="margin: 10px;"/>
-</p>
