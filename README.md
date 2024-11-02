@@ -2,7 +2,7 @@
     Hi there! 👋 I'm Kortam
 </h1>
 <h3 align="center">
-    SWE Intern @ Fawry | 2024 Graduate 🎓
+    Ex-Software Engineer Intern @ Fawry | 2024 Graduate 🎓
 </h3>
 
 # About Me
